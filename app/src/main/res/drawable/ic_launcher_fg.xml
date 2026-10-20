@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer Radar Circle -->
+    <path
+        android:strokeColor="#4000E5FF"
+        android:strokeWidth="1.8"
+        android:pathData="M 54,22 A 32,32 0 1,1 53.99,22 Z" />
+
+    <!-- Mid Radar Circle -->
+    <path
+        android:strokeColor="#7000E5FF"
+        android:strokeWidth="1.6"
+        android:pathData="M 54,32 A 22,22 0 1,1 53.99,32 Z" />
+
+    <!-- Inner Circle -->
+    <path
+        android:strokeColor="#B000E5FF"
+        android:strokeWidth="1.5"
+        android:pathData="M 54,42 A 12,12 0 1,1 53.99,42 Z" />
+
+    <!-- Radar Crosshairs -->
+    <path
+        android:strokeColor="#8000E5FF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M 54,16 L 54,92 M 16,54 L 92,54" />
+
+    <!-- Tactical Target Lock Brackets (Alert Amber / Crimson) -->
+    <!-- Top-Left -->
+    <path
+        android:strokeColor="#FFB703"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 28,38 L 28,28 L 38,28" />
+
+    <!-- Top-Right -->
+    <path
+        android:strokeColor="#FFB703"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 70,28 L 80,28 L 80,38" />
+
+    <!-- Bottom-Left -->
+    <path
+        android:strokeColor="#FFB703"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 28,70 L 28,80 L 38,80" />
+
+    <!-- Bottom-Right -->
+    <path
+        android:strokeColor="#FFB703"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 70,80 L 80,80 L 80,70" />
+
+    <!-- Radar Radar Sweep Glow Wedge (Quadrant 1) -->
+    <path
+        android:fillColor="#2200E5FF"
+        android:pathData="M 54,54 L 86,54 A 32,32 0 0,0 54,22 Z" />
+
+    <!-- Intercepted Tracker Tag Blip (Crimson) -->
+    <path
+        android:fillColor="#FF1744"
+        android:pathData="M 68,38 A 4.5,4.5 0 1,1 67.99,38 Z" />
+
+    <!-- Center Radar Core (Neon Cyan) -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M 54,54 A 3.5,3.5 0 1,1 53.99,54 Z" />
+
+</vector>

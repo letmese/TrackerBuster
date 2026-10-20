@@ -1,0 +1,12 @@
+## Build and cache
+.gradle/
+build/
+app/build/
+*.apk
+*.aab
+
+## IDE
+.idea/
+.kotlin/
+*.iml
+local.properties
