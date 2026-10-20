@@ -10,3 +10,7 @@ app/build/
 .kotlin/
 *.iml
 local.properties
+
+## Test Artifacts
+videos/
+*.mp4
