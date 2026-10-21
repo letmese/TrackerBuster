@@ -23,17 +23,17 @@
 ## 📱 App Preview (Live Firebase Test Lab Pixel 5 Screenshots)
 
 <div align="center">
-  <img src="screenshots/0.png" width="220" alt="Dashboard" />
-  <img src="screenshots/1.png" width="220" alt="RF Sentinel" />
-  <img src="screenshots/2.png" width="220" alt="Tracker Detection" />
-  <img src="screenshots/3.png" width="220" alt="CamGuard Lens Scanner" />
+  <img src="screenshots/1.png" width="220" alt="360° RF Airspace Radar Dashboard" />
+  <img src="screenshots/2.png" width="220" alt="Unwanted BLE Tracker Hunter" />
+  <img src="screenshots/3.png" width="220" alt="CamGuard Optical Lens Scanner" />
+  <img src="screenshots/5.png" width="220" alt="Sonic Spy Audio Bug Spectrogram" />
 </div>
 
 <div align="center">
-  <img src="screenshots/5.png" width="220" alt="Sonic Spy Audio Spectrogram" />
-  <img src="screenshots/7.png" width="220" alt="Magnetic Field Scan" />
-  <img src="screenshots/8.png" width="220" alt="Signal Analysis" />
-  <img src="screenshots/11.png" width="220" alt="Privacy Report" />
+  <img src="screenshots/7.png" width="220" alt="Magnetic Field Anomaly Scan" />
+  <img src="screenshots/8.png" width="220" alt="Signal Strength Triangulation" />
+  <img src="screenshots/11.png" width="220" alt="TSCM Privacy Report & Audit" />
+  <img src="screenshots/14.png" width="220" alt="Background Skimmer Protection" />
 </div>
 
 ---
